@@ -4,7 +4,7 @@
 ![image](https://github.com/surajkachate/Simple-Project-Templates-in-JavaScript/assets/89270012/6b7622c1-1168-40d8-81a6-1281ca3ed1a9)
 
 ## Password Generator Website
-<a href="[http://www.example.com](https://surajkachate.github.io/Simple-Project-Templates-in-JavaScript/password-gen/)" target="_blank">Password Generator Website Link</a>
+<a href="https://surajkachate.github.io/Simple-Project-Templates-in-JavaScript/password-gen/" target="_blank">Password Generator Website Link</a>
 
 ![image](https://github.com/surajkachate/Simple-Project-Templates-in-JavaScript/assets/89270012/ebff5535-ce54-4bbf-ab44-5aaa35900053)
 
